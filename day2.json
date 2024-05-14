@@ -1,0 +1,22 @@
+[
+    {
+        "Timestamp": "2024-05-13T08:00:00Z",
+        "PageId": "home",
+        "CustomerId": "12340"
+    },
+    {
+        "Timestamp": "2024-05-13T08:30:00Z",
+        "PageId": "products",
+        "CustomerId": "12346"
+    },
+    {
+        "Timestamp": "2024-05-13T09:00:00Z",
+        "PageId": "contact",
+        "CustomerId": "67890"
+    },
+    {
+        "Timestamp": "2024-05-13T09:30:00Z",
+        "PageId": "home",
+        "CustomerId": "67890"
+    }
+]
